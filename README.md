@@ -33,17 +33,23 @@
 <div align="center">
 
 #### Languages
-<img src="https://skillicons.dev/icons?i=go,ts,dart,js,java" />
+<img src="https://skillicons.dev/icons?i=go,ts,dart,js" />
 
 #### Backend & Frameworks
 <img src="https://skillicons.dev/icons?i=nodejs,react,flutter,tailwind,postgres,mongodb" />
+<br/>
+<img src="https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/GORM-EF4444?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Mendix-0595DB?style=flat-square&logo=mendix&logoColor=white" />
 
 #### DevOps & Tools
 <img src="https://skillicons.dev/icons?i=docker,aws,firebase,git,github,linux" />
+<br/>
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 
 </div>
-
-> Also: **Gin · GORM · gRPC · REST APIs · Mendix · CI/CD · Agile**
 
 ---
 
