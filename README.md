@@ -45,7 +45,7 @@
 <img src="https://img.shields.io/badge/Mendix-0595DB?style=flat-square&logo=mendix&logoColor=white" />
 
 #### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,aws,firebase,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=docker,azure,firebase,git,github,linux" />
 <br/>
 <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 
